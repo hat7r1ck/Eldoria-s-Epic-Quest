@@ -32,9 +32,10 @@ This project is open to contributions! If you have ideas for expanding the story
 ## Acknowledgements
 
 - This game was inspired by the creativity and imagination of Dungeons and Dragons.
-- Special thanks to the Python community for providing a fantastic language for building interactive adventures.
 
-So, brave adventurers, are you ready to set forth on Eldoria's Epic Quest? Your destiny awaits!
+---
+#### So, brave adventurers, are you ready to set forth on Eldoria's Epic Quest? 
+
 ![Screenshot 2023-08-30 034301](https://github.com/hat7r1ck/Eldoria-s-Epic-Quest/assets/110708720/d6096726-34bd-4523-a8d9-1be648dc0461)
 
-
+#### Your destiny awaits!
